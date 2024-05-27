@@ -45,7 +45,7 @@ python gui/app.py
 ### 运行命令行接口
 1. 进入项目目录：
 ```bash
-cd gif_to_images
+cd gif_to_images_converter
 ```
 
 2. 运行命令行接口，将 GIF 文件逐帧导出为 PNG 格式的图片：
